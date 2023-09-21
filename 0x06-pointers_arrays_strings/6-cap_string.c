@@ -5,7 +5,7 @@
  *
  * @entry: This is the input string
  *
- * Return: String capitalized
+ * Return: capitalized string
  */
 char *cap_string(char *entry)
 {
